@@ -1,7 +1,7 @@
 # Image-to-Friction Generation (FrictGAN)
 
 This is the implementation of the paper [GAN-based Image-to-Friction Generation for Tactile Simulation of Fabric Material](https://github.com/shaoyuca)
-![image](https://github.com/shaoyuca/Image-to-Friction-Generation/blob/main/img.png)
+![image](https://github.com/shaoyuca/Image-to-Friction-Generation/blob/main/dataset/img.png)
 
 ## Setup
 
@@ -9,12 +9,12 @@ We run the program on a Linux desktop using python.
 
 Environment requirements: 
 
--tensorflow 2.1.0
--tensorlfow-addons 0.12.0
--tensorlfow-io 0.17.0
--librosa 0.8.0
--scipy 1.4.1
--opencv 4.5.1
+- tensorflow 2.1.0  
+- tensorlfow-addons 0.12.0  
+- tensorlfow-io 0.17.0  
+- librosa 0.8.0  
+- scipy 1.4.1  
+- opencv 4.5.1  
 
 ## Usage
 
@@ -43,4 +43,4 @@ tensorboard --logdir=./
 
 
 ## Acknowledgement
-This code is based on the implementation of sketch2normal worked by Wanchao Su from [Sketch2normal](https://github.com/Ansire/sketch2normal). Thanks for the great work!
+This code is based on the implementation of sketch2normal worked by Wanchao Su from [sketch2normal](https://github.com/Ansire/sketch2normal). Thanks for the great work!
