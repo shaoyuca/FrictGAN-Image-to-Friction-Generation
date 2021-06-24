@@ -1,6 +1,3 @@
-# Image-to-Friction-Generation
-![image](https://github.com/shaoyuca/Image-to-Friction-Generation/blob/main/img/img.png)
-Sorce code and dataset for CAG journal
 # image-to-friction
 
 This is the implementation of the paper [GAN-based Image-to-Friction Generation for Tactile Simulation of Fabric Material](https://github.com/shaoyuca)
