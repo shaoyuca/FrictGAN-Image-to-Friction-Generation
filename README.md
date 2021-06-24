@@ -1,7 +1,7 @@
-# Image-to-Friction Generation (FrictGAN)
+# Image-to-Friction Generation (FrictganNet)
 
 This is the implementation of the paper [GAN-based Image-to-Friction Generation for Tactile Simulation of Fabric Material](https://github.com/shaoyuca)
-![image](https://github.com/shaoyuca/Image-to-Friction-Generation/blob/main/dataset/img.png)
+![image](https://github.com/shaoyuca/Image-to-Friction-Generation/blob/main/dataset/img.png) 
 
 ## Setup
 
