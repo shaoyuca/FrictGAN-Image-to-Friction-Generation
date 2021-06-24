@@ -20,17 +20,17 @@ Environment requirements:
 
 - Train the model:
 ```bash
-pyhton FrictganNet.py -- train --epoch <number>
+pyhton FrictganNet.py --train --epoch <number>
 ```
 
 - Test the model:
 ```bash
-python FrictganNet.py -- test
+python FrictganNet.py --test
 ```
 
 - Visualize the generated frictional signals:
 ```bash
-python FrictganNet.py -- visualize
+python FrictganNet.py --visualize
 ```
 
 - Visualize the training processing:
