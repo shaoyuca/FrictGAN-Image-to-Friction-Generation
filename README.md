@@ -39,7 +39,7 @@ cd logs
 tensorboard --logdir=./
 ```
 
-- Data: Training and testing data can be downloaded [here](https://drive.google.com/drive/folders/1ZA7aDgw1AYa85aXPJWPKKvTodIKZU97B?usp=sharing). After extracting the compressed file, put all the folders (from the dataset) in the project directory './dataset' (the same directory where the main file locates in).
+- Data: Training and testing data can be downloaded [here](https://drive.google.com/drive/folders/1ZA7aDgw1AYa85aXPJWPKKvTodIKZU97B?usp=sharing). After extracting the compressed file, put all the folders (from the downloaded file) in the project directory './dataset' (the same directory where the main file locates in).
 
 
 ## Acknowledgement
