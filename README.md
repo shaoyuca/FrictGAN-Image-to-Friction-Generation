@@ -41,6 +41,7 @@ tensorboard --logdir=./
 
 - Data: Training and testing data can be downloaded [here](https://drive.google.com/drive/folders/1ZA7aDgw1AYa85aXPJWPKKvTodIKZU97B?usp=sharing). After extracting the compressed file, put all the folders (from the downloaded file) in the project directory './dataset' (the same directory where the main file locates in).
 
+- Original dataset from [HapTex](http://haptic.buaa.edu.cn/English_FabricDatabase.htm) developed by BUAA Human-machine Interaction lab, thanks for sharing the physical fabirc samples for our experiment.  
 
 ## Acknowledgement
 This code is based on the implementation of sketch2normal worked by Wanchao Su from [sketch2normal](https://github.com/Ansire/sketch2normal). Thanks for the great work!
