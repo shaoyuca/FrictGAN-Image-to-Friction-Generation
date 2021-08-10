@@ -20,7 +20,7 @@ Environment requirements:
 
 - Train the model:
 ```bash
-pyhton FrictganNet.py --train --epoch <number>
+python FrictganNet.py --train --epoch <number>
 ```
 
 - Test the model:
