@@ -39,7 +39,7 @@ cd logs
 tensorboard --logdir=./
 ```
 
-- Data: Training and testing data can be downloaded [here](https://drive.google.com/drive/folders/1ZA7aDgw1AYa85aXPJWPKKvTodIKZU97B?usp=sharing). After extracting the compressed file, put all the folders (from the downloaded file) in the project directory './dataset' (the same directory where the main file locates in).
+- Data: Training and testing data can be downloaded [here](https://portland-my.sharepoint.com/:f:/g/personal/shaoycai-c_my_cityu_edu_hk/EoQh3vH2gElOuzT9-xZT3-UB-onw3IX-gYnD35xkXXQ-jA?e=kr4c1P). After extracting the compressed file, put all the folders (from the downloaded file) in the project directory './dataset' (the same directory where the main file locates in).
 
 - Original dataset from [HapTex](http://haptic.buaa.edu.cn/English_FabricDatabase.htm) developed by BUAA Human-machine Interaction lab, thanks for sharing the physical fabirc samples for our experiment.  
 
